@@ -11,3 +11,6 @@ RegisterCommand("minigame", function()
         print('none')    
     end
 end)
+
+
+[IMG ![image](https://user-images.githubusercontent.com/51840953/221935749-9fb42ba5-2ab8-4ac6-b427-6cc0b4c6de01.png)](https://prnt.sc/dPeVOoGkeW9H)
