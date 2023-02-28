@@ -15,4 +15,4 @@ RegisterCommand('minigame', function()
 end)
 ```
 
-[image](https://prnt.sc/dPeVOoGkeW9H)
+[Image](https://prnt.sc/dPeVOoGkeW9H)
